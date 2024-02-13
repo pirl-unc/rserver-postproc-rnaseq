@@ -1,4 +1,6 @@
-# rserver-postproc-ranseq
+# rserver-postproc-rnaseq
+
+* This repository originally resided at https://github.com/Benjamin-Vincent-Lab/rserver-postproc-rnaseq , it was moved here on 2/12/2024
 
 ## Introduction
 This Dockerfile is used to setup an RStudio server that can be used to do post processing of RNA-seq data using the StarSalmon package.
